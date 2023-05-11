@@ -1,0 +1,5 @@
+x = input('enter first name')
+y = input('enter last name')
+print(f"{x} {y}")
+print("\n")
+print(f" Reverse order :  {y} {x}")
